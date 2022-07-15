@@ -6,6 +6,6 @@ export const Container = styled.div`
     margin: 0 auto;
     
     h1{
-        color: blue;
+        color: black;
     }
 `

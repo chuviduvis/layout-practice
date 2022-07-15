@@ -5,7 +5,7 @@ export  const StyledHeader = styled.header`
 
     padding: 40px 60px;
     h1{
-        color: #fff
+        color: black; 
     }
   
 `
